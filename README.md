@@ -19,4 +19,4 @@
  This project is intended to be a reference for other people having troubble following the tutorial so they can check if 
  there something they missed.
 
-<img src="https://ssistero-cdn.sirv.com/github/pet-shop.jpg"/>
+<img align="center" src="https://ssistero-cdn.sirv.com/github/pet-shop.jpg"/>
