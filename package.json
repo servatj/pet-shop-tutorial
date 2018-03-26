@@ -9,10 +9,16 @@
   "scripts": {
     "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
+  }, 
+  "husky": {
+    "hooks": {
+      "pre-commit": "truffle test"
+    }
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "husky": "^0.15.0-rc.13",
     "lite-server": "^2.3.0"
   }
 }
